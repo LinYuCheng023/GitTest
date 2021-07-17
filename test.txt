@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello
+=======
+Hello
+Apple
+>>>>>>> de5ed34344205ac982bd23377763905d7b27acec
